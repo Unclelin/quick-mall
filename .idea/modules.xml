@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quick-mall-web/mall-admin/mall-admin.iml" filepath="$PROJECT_DIR$/quick-mall-web/mall-admin/mall-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-mall-web/mall-api/mall-api.iml" filepath="$PROJECT_DIR$/quick-mall-web/mall-api/mall-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-mall.iml" filepath="$PROJECT_DIR$/quick-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-mall-common/quick-mall-common.iml" filepath="$PROJECT_DIR$/quick-mall-common/quick-mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-mall-generator/quick-mall-generator.iml" filepath="$PROJECT_DIR$/quick-mall-generator/quick-mall-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-mall-interface/quick-mall-interface.iml" filepath="$PROJECT_DIR$/quick-mall-interface/quick-mall-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-mall-service/quick-mall-service.iml" filepath="$PROJECT_DIR$/quick-mall-service/quick-mall-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quick-mall-web/quick-mall-web.iml" filepath="$PROJECT_DIR$/quick-mall-web/quick-mall-web.iml" />
+    </modules>
+  </component>
+</project>

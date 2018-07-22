@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mall-api:war">
+    <output-path>$PROJECT_DIR$/quick-mall-web/mall-api/target</output-path>
+    <root id="archive" name="mall-api-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mall-api:war exploded" />
+    </root>
+  </artifact>
+</component>
