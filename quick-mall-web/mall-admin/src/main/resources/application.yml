@@ -1,0 +1,13 @@
+# Tomcat
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  port: 9081
+  servlet:
+    context-path: /admin
+
+## mysql
+spring:
+  ## 环境 dev|test|prod
+  profiles:
+    active: dev
