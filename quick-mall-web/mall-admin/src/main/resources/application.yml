@@ -11,3 +11,8 @@ spring:
   ## 环境 dev|test|prod
   profiles:
     active: dev
+
+##去掉html的校验
+thymeleaf:
+    cache: false
+    mode: LEGACYHTML5
