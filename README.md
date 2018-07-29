@@ -25,6 +25,11 @@ admin访问地址：
 
 http://localhost:9081/admin/test/tom
 
+admin api
+
+http://localhost:9080/admin/swagger-ui.html
+
+
 Swagger api 文档地址:
 
 http://localhost:9080/api/swagger-ui.html

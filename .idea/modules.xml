@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/quick-mall-web/mall-admin/mall-admin.iml" filepath="$PROJECT_DIR$/quick-mall-web/mall-admin/mall-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/quick-mall-web/mall-api/mall-api.iml" filepath="$PROJECT_DIR$/quick-mall-web/mall-api/mall-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/quick-mall.iml" filepath="$PROJECT_DIR$/quick-mall.iml" />
-      <module fileurl="file://$PROJECT_DIR$/quick-mall-web/mall-admin/quick-mall-admin.iml" filepath="$PROJECT_DIR$/quick-mall-web/mall-admin/quick-mall-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/quick-mall-common/quick-mall-common.iml" filepath="$PROJECT_DIR$/quick-mall-common/quick-mall-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/quick-mall-generator/quick-mall-generator.iml" filepath="$PROJECT_DIR$/quick-mall-generator/quick-mall-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/quick-mall-interface/quick-mall-interface.iml" filepath="$PROJECT_DIR$/quick-mall-interface/quick-mall-interface.iml" />
