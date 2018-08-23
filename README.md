@@ -4,7 +4,7 @@
 
   这是一个快速搭建在线商城的平台，还在努力开开发中敬请期待 :)
 
-## 所以技术
+## 所用技术
 
 1. spring boot
 2. shiro
@@ -18,6 +18,7 @@
 10. Ueditor
 11. Echart
 12. nginx
+13. fastdfs
 
 ## 访问URL
 
